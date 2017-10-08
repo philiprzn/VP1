@@ -2,75 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e5ef7f3-14ba-49e6-a7e8-6d7a5c46e894" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gagalin-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Lifehack-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ubuntu-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Ubuntu-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-b-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/best.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/footer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/hero-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/diets.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/meats.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/vegans.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/order.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/team.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/teammate.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/VP1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cecf7eff-22fd-408e-98cc-6b4b126f5c6e.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/_svg-sprite.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/arrow-scroll.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/beef.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/buns.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/burger.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/check.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/cheese.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/close.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/cucumber.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/drops.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/fb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/hand.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/inst.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/kkal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/map-marker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/meat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/natural.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/phone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/salad.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/sauce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/twitter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/vk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprite/sprite.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendors.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -140,15 +72,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="418">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <marker date="1507373964649" expanded="true" signature="383:402" ph="SELECT * FRO... users" />
                 <marker date="1507373964649" expanded="true" signature="699:719" ph="SELECT * FRO... orders" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="488" column="12" lean-forward="true" selection-start-line="488" selection-start-column="12" selection-end-line="488" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -185,7 +127,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1288" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
@@ -264,15 +206,23 @@
       <workItem from="1507184691246" duration="2511000" />
       <workItem from="1507295432680" duration="10898000" />
       <workItem from="1507367354224" duration="11211000" />
-      <workItem from="1507470432845" duration="1164000" />
+      <workItem from="1507470432845" duration="1226000" />
     </task>
+    <task id="LOCAL-00001" summary="VP1">
+      <created>1507471630225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507471630225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30283000" />
+    <option name="totallyTimeSpent" value="30345000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1288" y="-8" width="1296" height="1040" extended-state="6" />
+    <frame x="-1288" y="-8" width="1296" height="1040" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11084142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -318,6 +268,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VP1" />
+    <option name="LAST_COMMIT_MESSAGE" value="VP1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -556,14 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="494" column="10" lean-forward="false" selection-start-line="494" selection-start-column="10" selection-end-line="494" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -588,12 +534,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <marker date="1507373964649" expanded="true" signature="383:402" ph="SELECT * FRO... users" />
             <marker date="1507373964649" expanded="true" signature="699:719" ph="SELECT * FRO... orders" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="488" column="12" lean-forward="true" selection-start-line="488" selection-start-column="12" selection-end-line="488" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
