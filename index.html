@@ -31,6 +31,8 @@
                     </li>
                     <li class="nav__item"><a class="nav__link" href="7">контакты</a>
                     </li>
+                    <li class="nav__item"><a class="nav__link" href="#order-form">ВХОД</a>
+                    </li>
                   </ul>
                 </nav>
               </div>
@@ -364,7 +366,7 @@
           <div class="container">
             <div class="section__title">Закажите доставку</div>
             <div class="order__form">
-              <form class="order__form-tag" id="order-form">
+              <form class="order__form-tag" id="order-form" action="">
                 <div class="order__form-col">
                   <div class="order__form-row order__form-row_double">
                     <label class="order__form-block">
@@ -415,25 +417,25 @@
                   <div class="order__form-buttons">
                     <div class="order__form-row">
                       <label class="order__radio">
-                        <input class="order__radio-elem" name="payment" type="radio">
+                        <input class="order__radio-elem" name="payment" type="radio" value="cash" checked>
                         <div class="order__radio-fake"></div>
                         <div class="order__radio-title">Потребуется сдача</div>
                       </label>
                       <label class="order__radio">
-                        <input class="order__radio-elem" name="payment" type="radio">
+                        <input class="order__radio-elem" name="payment" type="radio" value="no_cash">
                         <div class="order__radio-fake"></div>
                         <div class="order__radio-title">Оплата по карте</div>
                       </label>
                     </div>
                     <div class="order__form-row">
                       <label class="order__radio order__radio_checkbox">
-                        <input class="order__radio-elem" name="callback" type="checkbox">
+                        <input class="order__radio-elem" name="no_callback" type="checkbox">
                         <div class="order__radio-fake"></div>
                         <div class="order__radio-title">Не перезванивать</div>
                       </label>
                     </div>
                     <div class="order__form-row">
-                      <input class="order__form-button" name="" type="submit" value="Заказать">
+                      <input class="order__form-button" name="submit" type="submit" value="Заказать">
                       <input class="order__form-button order__form-button_reset" name="" type="reset" value="Очистить">
                     </div>
                   </div>

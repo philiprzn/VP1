@@ -35,7 +35,7 @@
     </column>
     <column id="14" parent="8" name="no_callback">
       <Position>5</Position>
-      <DataType>tinyint(4)|0</DataType>
+      <DataType>tinyint(1)|0</DataType>
       <NotNull>1</NotNull>
       <DefaultExpression>&apos;0&apos;</DefaultExpression>
     </column>

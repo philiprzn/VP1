@@ -11,7 +11,7 @@
 
     $stmt = $pdo->query("SELECT * FROM users");
 
-    echo '<table border="1" callpadding="10">Пользователи<thead><th>ID</th><th>E-mail</th><th>Имя</th></thead>';
+    echo '<table border="1" cellpadding="10" >Пользователи<thead><th>ID</th><th>E-mail</th><th>Имя</th></thead>';
 
     foreach ($stmt as $row) {
         echo "<tr><td>{$row['id']}</td><td>{$row['email']}</td><td>{$row['name']}</td></tr>";

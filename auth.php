@@ -54,10 +54,11 @@ foreach ($data as $field){
 if (empty($err) === true) {
     $stmt = $pdo->prepare("SELECT COUNT(id) FROM users WHERE email = ?");
     $stmt->execute(array($dataObj['email']));
-    $row = $stmt->fetch();
+    $row  = $stmt->fetch();
 
-    if($row['COUNT(id)'] > 0) {
-        echo "Вы авторизованы!";
+    if($row['COUNT(id)'] > 0)
+    {
+        echo "Вы авторизированы!";
     } else {
         $stmt = $pdo->prepare("INSERT INTO users (email, name, phone) VALUES (?, ?, ?)");
         $stmt->execute(array($dataObj['email'],$dataObj['name'],$dataObj['phone']));
