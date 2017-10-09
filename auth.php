@@ -27,7 +27,9 @@ foreach ($data as $field){
             };
             break;
         case "no_callback":
-            $value = filter_var($value, FILTER_VALIDATE_BOOLEAN);
+//            var_dump($value);
+            $value = filter_var($value, FILTER_SANITIZE_NUMBER_INT);
+
             break;
         case "street":
         case "home":
@@ -74,6 +76,7 @@ if (empty($err) === true) {
     $adress ='ул.' . $dataObj['street'] . ' д.' . $dataObj['home'] . ' корп.' . $dataObj['part'] . ' этаж ' . $dataObj['floor'] . ' кв. ' . $dataObj['appt'];
 
     $stmt = $pdo->prepare("INSERT INTO orders (adress, comment, payment, no_callback, user_id) VALUES (?, ?, ?, ?, ?)");
+//    var_dump($dataObj['no_callback']);
     $stmt->execute(array($adress, $dataObj['comment'], $dataObj['payment'], $dataObj['no_callback'], $user['id']));
     $orderId = $pdo->lastInsertId();
 
